@@ -31,5 +31,5 @@ For more details on my projects and interests, feel free to explore my GitHub re
 Thank you for visiting my user page. Let's innovate together!
 
 --- 
-![Part 1](part-1.png)
-![Part 2](part-2.png)
+![Part 1](Screenshots/part-1.png)
+![Part 2](Screenshots/part-2.png)
