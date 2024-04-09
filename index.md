@@ -18,7 +18,7 @@ What truly excites me is the opportunity to apply my skills in a professional so
 
 I am always eager to connect with industry professionals, exchange insights, and explore potential collaborations. If you are seeking a dedicated and innovative software engineer who can bring value from day one, I would be delighted to connect with you.
 
-- [LinkedIn Profile](https://www.linkedin.com/in/rickrodness)
+- [LinkedIn Profile](https://www.linkedin.com/in/rick-rodness/)
 - [GitHub Repository](https://github.com/rickrodness)
 
 ## Projects and Collaborations
