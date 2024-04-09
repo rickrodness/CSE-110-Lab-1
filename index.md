@@ -4,7 +4,7 @@ My name is **Rick Rodness**, I am a 3rd year Computer Science major at **UC San 
 
 ## My Academic and Research Interests
 
-Currently, as an undergraduate researcher, my focus is on **Neural Radiance Fields (NeRF)** and **Gaussian Splatting** for advanced view synthesis. My focus is on implementing these popular differentiable rendering algorithms using **Slang**. Slang is a new GPU programming language developed by NVIDIA that supports automatic differentiation and a user-friendly interface, we are testing it on these algorithms to see if we can make them more efficient and accessible.
+Currently, as an undergraduate researcher, I am deeply involved with **Neural Radiance Fields** (NeRF) and **Gaussian Splatting** for advanced view synthesis. I am working on implementing these differentiable rendering algorithms using **Slang**, a new GPU programming language developed by NVIDIA. Slang is designed to support automatic differentiation and offers a user-friendly interface, making it an ideal tool for our research. Our goal is to test these algorithms with Slang to enhance their efficiency and accessibility.
 
 ```python
 # Example of a simple Python code snippet
