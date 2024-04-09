@@ -26,7 +26,7 @@ I am always eager to connect with industry professionals, exchange insights, and
 - **Project 1**: An implementation of NeRF using Slang for advanced view synthesis. [More about this project](https://arxiv.org/abs/2003.08934)
 - **Project 2**: Gaussian Splatting for real-time view synthesis. [Explore the code](https://github.com/graphdeco-inria/gaussian-splatting)
 
-![A scenic view representing my love for the outdoors](/Screenshots/outdoor-milo.png)
+![A scenic view representing my love for the outdoors](/Screenshots/big-sur.jpg)
 
 For more details on my projects and interests, feel free to explore my GitHub repositories or reach out directly through my LinkedIn profile.
 
