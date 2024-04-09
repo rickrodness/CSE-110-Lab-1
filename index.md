@@ -23,7 +23,7 @@ I am always eager to connect with industry professionals, exchange insights, and
 
 ## Projects and Collaborations
 
-- **Project 1**: An implementation of NeRF using Slang for advanced view synthesis. [More about this project](https://github.com/yenchenlin/nerf-pytorch)
+- **Project 1**: An implementation of NeRF using Slang for advanced view synthesis. [More about this project](https://arxiv.org/abs/2003.08934)
 - **Project 2**: Gaussian Splatting for real-time view synthesis. [Explore the code](https://github.com/graphdeco-inria/gaussian-splatting)
 
 ![A scenic view representing my love for the outdoors](/images/outdoor-scene.jpg)
